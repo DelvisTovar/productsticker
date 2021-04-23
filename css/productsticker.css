@@ -1,0 +1,17 @@
+ul.product-sticker-ul{
+	position: absolute;
+    top: -203px;
+    left: -2px;
+}
+
+li.product-sticker-li{
+	text-align: left;
+}
+
+img.product-sticker-img{
+	width: 55%;
+}
+
+body#product ul.product-sticker-ul{
+	display: none;
+}
